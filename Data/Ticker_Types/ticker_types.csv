@@ -1,0 +1,22 @@
+,code,description,asset_class,locale
+0,CS,Common Stock,stocks,us
+1,PFD,Preferred Stock,stocks,us
+2,WARRANT,Warrant,stocks,us
+3,RIGHT,Rights,stocks,us
+4,BOND,Corporate Bond,stocks,us
+5,ETF,Exchange Traded Fund,stocks,us
+6,ETN,Exchange Traded Note,stocks,us
+7,SP,Structured Product,stocks,us
+8,ADRC,American Depository Receipt Common,stocks,us
+9,ADRW,American Depository Receipt Warrants,stocks,us
+10,ADRR,American Depository Receipt Rights,stocks,us
+11,FUND,Fund,stocks,us
+12,BASKET,Basket,stocks,us
+13,UNIT,Unit,stocks,us
+14,LT,Liquidating Trust,stocks,us
+15,OS,Ordinary Shares,stocks,us
+16,GDR,Global Depository Receipts,stocks,us
+17,OTHER,Other Security Type,stocks,us
+18,NYRS,New York Registry Shares,stocks,us
+19,AGEN,Agency Bond,stocks,us
+20,EQLK,Equity Linked Bond,stocks,us
